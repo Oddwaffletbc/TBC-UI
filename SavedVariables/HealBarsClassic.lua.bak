@@ -1,0 +1,9 @@
+
+HealBarSettings = {
+	["profileKeys"] = {
+		["Oddwaffle - Firemaw"] = "Oddwaffle - Firemaw",
+		["Wafflesbank - Firemaw"] = "Wafflesbank - Firemaw",
+		["Oddwafflez - Firemaw"] = "Oddwafflez - Firemaw",
+		["Benjies - Firemaw"] = "Benjies - Firemaw",
+	},
+}

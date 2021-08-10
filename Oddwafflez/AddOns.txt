@@ -1,0 +1,14 @@
+AutoLootPlus: disabled
+Questie: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+sArena: disabled
+Gladdy: enabled
+D4KiR MoveAndImprove: disabled
+WeakAuras: enabled
+TwitchEmotes: enabled
+DBM-Core: disabled
+TradeSkillMaster: enabled
+TradeSkillMaster_AppHelper: enabled
+HealBarsClassic: disabled
+ATT: disabled

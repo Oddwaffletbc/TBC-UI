@@ -1,0 +1,60 @@
+
+AtlasLootClassicDB = {
+	["profileKeys"] = {
+		["Oddwaffle - Firemaw"] = "Oddwaffle - Firemaw",
+		["Wafflesbank - Firemaw"] = "Wafflesbank - Firemaw",
+		["Oddwafflez - Firemaw"] = "Oddwafflez - Firemaw",
+		["Benjies - Firemaw"] = "Benjies - Firemaw",
+	},
+	["global"] = {
+		["__addonrevision"] = 2030001,
+	},
+	["profiles"] = {
+		["Oddwaffle - Firemaw"] = {
+			["GUI"] = {
+				["point"] = {
+					nil, -- [1]
+					nil, -- [2]
+					"CENTER", -- [3]
+					-5.187298665987328e-05, -- [4]
+					0, -- [5]
+				},
+				["selected"] = {
+					nil, -- [1]
+					"MagtheridonsLair", -- [2]
+					nil, -- [3]
+					1, -- [4]
+					0, -- [5]
+				},
+			},
+			["minimap"] = {
+				["minimapPos"] = 176.0723207236971,
+			},
+		},
+		["Wafflesbank - Firemaw"] = {
+		},
+		["Oddwafflez - Firemaw"] = {
+			["minimap"] = {
+				["minimapPos"] = 175.7630931707112,
+			},
+			["GUI"] = {
+				["point"] = {
+					nil, -- [1]
+					nil, -- [2]
+					"CENTER", -- [3]
+					117.7901229858398, -- [4]
+					1.999963164329529, -- [5]
+				},
+				["selected"] = {
+					nil, -- [1]
+					"Karazhan", -- [2]
+					13, -- [3]
+					1, -- [4]
+					0, -- [5]
+				},
+			},
+		},
+		["Benjies - Firemaw"] = {
+		},
+	},
+}

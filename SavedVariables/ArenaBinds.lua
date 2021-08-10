@@ -1,0 +1,2 @@
+
+ArenaBindsDB = nil

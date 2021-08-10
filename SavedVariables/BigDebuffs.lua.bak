@@ -1,0 +1,17 @@
+
+BigDebuffsDB = {
+	["profileKeys"] = {
+		["Oddwaffle - Firemaw"] = "Default",
+		["Wafflesbank - Firemaw"] = "Default",
+		["Oddwafflez - Firemaw"] = "Default",
+		["Benjies - Firemaw"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["unitFrames"] = {
+				["arena1"] = {
+				},
+			},
+		},
+	},
+}

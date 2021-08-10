@@ -1,0 +1,91 @@
+VER 3 0000000001000001 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Mind control
+/cast [target=player] Fear Ward
+END
+VER 3 0000000001000002 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=player] Power Infusion
+END
+VER 3 0000000001000003 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=focus] Dispel Magic(Rank 2)
+END
+VER 3 0000000001000004 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=focus] Mana Burn(Rank 7)
+END
+VER 3 0000000001000005 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Mind control
+/cast Mind Control(Rank 3)
+END
+VER 3 0000000001000006 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Shadowfiend
+/cast Shadowfiend
+/petdefensive
+/cast [target=pet] Fear Ward
+/petattack
+END
+VER 3 0000000001000007 " " "INV_MISC_QUESTIONMARK"
+#showtooltip Devouring Plague(Rank 7)
+/cast Inner Focus
+/cast Devouring Plague(Rank 7)
+END
+VER 3 0000000001000008 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Mind control
+/cast [nomodifier,target=focus] Shadow Word: Death(Rank 2) ; [modifier:alt,target=target] Shadow Word: Death(Rank 2)
+END
+VER 3 0000000001000009 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/equipslot 16 Runed Dagger of Solace
+/equipslot 17 Windcaller's Orb
+/equipslot 16 Nightstaff of the Everliving
+END
+VER 3 000000000100000A " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast !Mass Dispel
+END
+VER 3 0000000001000010 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [target=focus] Shadow Word: Pain(Rank 1)
+END
+VER 3 000000000100000E " " "INV_MISC_QUESTIONMARK"
+#showtooltip Star's Tears
+/use Conjured Glacier Water
+/use Conjured Manna Biscuit
+/use Filtered Draenic Water
+/use Conjured Mountain Spring Water
+/use Star's Tears
+END
+VER 3 000000000100000D " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Mind control
+/cast Fear Ward
+END
+VER 3 0000000001000012 " " "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Flee
+/equip Skull of Impending Doom
+/use Skull of Impending Doom
+END
+VER 3 000000000100000C "2v2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Mind control
+/cast Psychic Scream(Rank 2)
+END
+VER 3 000000000100000B "3v3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Mind control
+/cast Psychic Scream(Rank 3)
+END
+VER 3 0000000001000011 "Hack" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Word: Death(Rank 2)
+/targetenemy
+/use Shadow Word: Death(Rank 2)
+END
+VER 3 000000000100000F "REMOVE PWS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura Power Word: Shield
+END
